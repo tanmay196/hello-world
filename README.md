@@ -1,2 +1,2 @@
 # hello-world
-I created this repository when I was a beginner to Github
+Hi Tanmay here. I like math. Doing things related to it never bores me. I can spend a whole day doing that, irrespective of whether what am I doing is in reach of mine or not.
